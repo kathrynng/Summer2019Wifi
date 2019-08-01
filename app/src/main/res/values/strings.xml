@@ -2,4 +2,6 @@
     <string name="app_name">Summer2019Wifi</string>
     <string name="scan_wifi">Scan Wifi</string>
     <string name="found_networks">Wifi Not Found</string>
+    <string-array name="areaBSSID">/
+    </string-array>
 </resources>
